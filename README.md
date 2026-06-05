@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I am Tayyab! 👋</h1>
-
 <br/>
-
 <h2 align="center">💻 Technologies I Have Learned</h2>
-
 <div align="center">
 <table>
   <tr>
@@ -67,6 +64,36 @@
     </td>
   </tr>
 </table>
-
 <br/>
+</div>
+
+<h2 align="center">🚀 My Live Projects</h2>
+<div align="center">
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>ChecknTrust</b></td>
+    <td>Employee-owned portable employment verification platform</td>
+    <td><a href="https://checkntrust.com/" target="_blank">🌐 Visit</a></td>
+  </tr>
+  <tr>
+    <td><b>Caren & Cleans</b></td>
+    <td>Professional cleaning services website</td>
+    <td><a href="https://carencleanss.com/" target="_blank">🌐 Visit</a></td>
+  </tr>
+  <tr>
+    <td><b>Caren & Cleans Panel</b></td>
+    <td>Admin/client management dashboard for cleaning business</td>
+    <td><a href="https://panel.carencleanss.com/" target="_blank">🌐 Visit</a></td>
+  </tr>
+  <tr>
+    <td><b>AnyVideoDownloader</b></td>
+    <td>Online video downloader supporting multiple platforms</td>
+    <td><a href="https://anyvideodownloader.net/" target="_blank">🌐 Visit</a></td>
+  </tr>
+</table>
 </div>
