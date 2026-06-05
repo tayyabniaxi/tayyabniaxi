@@ -95,5 +95,10 @@
     <td>Online video downloader supporting multiple platforms</td>
     <td><a href="https://anyvideodownloader.net/" target="_blank">🌐 Visit</a></td>
   </tr>
+  <tr>
+    <td><b>PDFPlex</b></td>
+    <td>Online PDF tools — merge, split, convert & more</td>
+    <td><a href="https://pdfplex.com/" target="_blank">🌐 Visit</a></td>
+  </tr>
 </table>
 </div>
